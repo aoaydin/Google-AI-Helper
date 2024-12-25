@@ -10,7 +10,7 @@ Bu program, Google'ın Generative Language API'sini kullanarak metin işleme gö
 * Çoklu İşlem Türleri:  Uygulama, şu işlemleri destekler:
     * Düzenle:  Girilen metni daha iyi bir şekilde yeniden yazar.
     * Özetle:  Girilen metnin kısa bir özetini oluşturur.
-    * Çevir (İngilizce): Girilen metni İngilizce'ye çevirir.
+    * Çevir (İngilizce): Girilen metni İngilizce'ye çevirir / Henüz Düzgün ve stabil çalışmamaktadır. yazı sonuna çevrilmek istenen dil eklenmesi gerekiyor.
     * Resmileştir: Girilen metni daha resmi bir dile dönüştürür.
 * Kullanıcı Dostu Arayüz:  Basit ve anlaşılır bir arayüz ile kullanıcılar kolayca metin girebilir ve işlemleri seçebilirler.
 * Yanıt İşleme:  API'den gelen yanıtlar, okunabilirliği artırmak için biçimlendirilir ve gösterilir.
